@@ -25,5 +25,5 @@ This folder consists of the original data sets such as drug-target, target-disea
 3.	‘target_disease.txt’: the target-disease associations with 478 diseases.
 4.	‘sequence_unp.txt’ : the information of proteins ‘ sequences.
 5.	‘ppi_data.rar’ : the protein-protein interaction data.
-6.	‘pathway_data.txt’ : the information of metabolic pathway.
-7.	‘Drug-disease matrix.txt’ : the example of drug-disease matrix for Carcinoma disease.
+6.	‘pathway_data.txt’ : the information of metabolic pathways.
+7.	‘Drug-disease matrix.txt’ : the example of drug-disease matrix for carcinoma disease.
