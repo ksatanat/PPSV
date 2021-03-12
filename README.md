@@ -4,7 +4,7 @@ This repository consists of source codes and data sets of the Protein-Protein Si
 # Requirements
 The code is written in R (R-4.0.3) and Python (version 3.8) languages. The requirement packages compose of ‘readxl’, ‘readr’, ‘igraph’, ‘protr’, ‘Biostrings’, ‘testit’ in R language and ‘os’, ‘numpy, ‘pandas’, including ‘sklearn’ for Python language.
 
-# Code
+# Codes
 This folder consists of the code for measuring PPSV scores and the code for predicting the score of drug-disease associations.
 PPSV_scores.R
 This code is to account the Protein-Protein Similarity Vector (PPSV) which contains seven scores of biological meanings between proteins (Uniprot_id) as follows:
